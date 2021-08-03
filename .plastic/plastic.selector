@@ -1,0 +1,4 @@
+repository "Unity_Shader_Learning@ssl://gease777@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/1084188171" 
+     
