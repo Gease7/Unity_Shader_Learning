@@ -1,4 +1,4 @@
-Shader "Unlit/MaskTexture"
+Shader "Shader-Learning/Chapter5/MaskTexture"
 {
     Properties
     {

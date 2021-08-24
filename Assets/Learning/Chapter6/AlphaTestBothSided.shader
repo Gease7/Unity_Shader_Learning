@@ -10,6 +10,7 @@ Shader "Shader-Learning/Chapter6/AlphaTesBothSided"
     SubShader
     {
         // 设置标签
+        // 设置渲染类型为蒙皮透明着色器，使用透明度测试专用的渲染队列，忽略投影器的影响
         Tags { "RenderType"="TransparentCutout" "Queue"="AlphaTest" "IgnoreProjector"="True" }
         LOD 100
 
